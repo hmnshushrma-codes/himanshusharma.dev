@@ -54,7 +54,7 @@ export const resume: Resume = {
   basics: {
     name: "Himanshu Sharma",
     label: "Principal Front-End Engineer / JavaScript Enthusiast",
-    email: "Hmnshu2690@gmail.com",
+    email: "Himanshu.sharma.codea@gmail.com",
     phone: "+91-9999344334",
     location: {
       address: "B-13 Street No.2, Kanti Nagar Extension",
