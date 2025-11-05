@@ -70,8 +70,8 @@ export const resume: Resume = {
     aboutSecondary:
       "I have a strong hold in UX—partnering closely with design to turn complex flows into intuitive, fast interfaces. Recently that’s meant healthcare schedulers, trading dashboards, and data marketplaces. I enjoy roles at the intersection of product, engineering, and UX, and I’m open to opportunities where I can lead front-end, own delivery, and shape the user experience end-to-end.",
     links: {
-      github: "https://github.com/hmnshushrma",
-      linkedin: "https://linkedin.com/in/hmnshushrma",
+      github: "https://github.com/hmnshushrma-codes",
+      linkedin: "https://linkedin.com/in/himanshusharma-dev",
     },
     openTo: [
       "Front-End Lead / Staff FE",
